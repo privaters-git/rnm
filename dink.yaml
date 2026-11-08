@@ -87,8 +87,8 @@
   "levelNotifMessage": "%USERNAME% has levelled %SKILL%",
   "xpInterval": 200000000,
 
-  "collectionLogEnabled": false,
-  "collectionSendImage": false,
+  "collectionLogEnabled": true,
+  "collectionSendImage": true,
   "collectionNotifMessage": "%USERNAME% has added %ITEM% to their collection",
   "collectionDenylist": "Dwarf remains\n",
 
